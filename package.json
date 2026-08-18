@@ -1,6 +1,6 @@
 {
   "name": "@dsh-local/dsh-web-search-brave",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Brave Search provider for the DeepSeek Harness web capability seam (ctx.web)",
   "type": "module",
   "main": "lib/index.js",
@@ -21,6 +21,9 @@
     "README.md",
     "LICENSE"
   ],
+  "scripts": {
+    "test": "node --test"
+  },
   "license": "MIT",
   "peerDependencies": {
     "@deepseek-ai/schemastery": "^3.18.1",
