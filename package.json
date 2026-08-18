@@ -1,6 +1,6 @@
 {
   "name": "@dsh-local/dsh-web-search-brave",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Brave Search provider for the DeepSeek Harness web capability seam (ctx.web)",
   "type": "module",
   "main": "lib/index.js",
