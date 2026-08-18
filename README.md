@@ -12,6 +12,8 @@ dsh plugin --profile web add github:Ruineo-Z/dsh-web-search-brave
 
 ## Register and switch provider
 
+**重要：必须在 `cordis.patch.yml` 中注册插件入口，否则 Settings 卡片不会出现。**
+
 Edit `~/.dsh/profiles/web/cordis.patch.yml`:
 
 ```yaml
