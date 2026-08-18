@@ -7,7 +7,7 @@ Registers a `web_search` backend with id `brave` calling the
 ## Install into the web profile
 
 ```sh
-dsh plugin --profile web add file:/Users/ruinow/DSH/dsh-web-search-brave
+dsh plugin --profile web add github:Ruineo-Z/dsh-web-search-brave
 ```
 
 ## Register and switch provider
